@@ -4,7 +4,9 @@ import gpx_analysis as gpa
 def main():
     print("Hello World")
 
-    gpa.test("jack_on_his_Snapper.gpx")
+    #gpa.test("jack_on_his_Snapper.gpx")
+
+    gpa.test1("jack_on_his_Snapper.gpx")
 
 
 
