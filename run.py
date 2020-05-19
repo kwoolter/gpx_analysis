@@ -6,7 +6,7 @@ def main():
 
     #gpa.test("jack_on_his_Snapper.gpx")
 
-    gpa.test1("jack_on_his_Snapper.gpx")
+    gpa.test1("Jack_on_his_Snapper.gpx")
 
 
 
